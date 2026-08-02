@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Retail Sales Performance Power BI Dashboard](images/Bashmala%20Dashboard.png)
+![Retail Sales Performance Power BI Dashboard](Bashmala%20Dashboard.png)
 
 The interactive dashboard provides a consolidated view of retail sales performance across regions, stores, products, product categories, sales representatives, customer demographics, and time periods.
 
